@@ -1,0 +1,6 @@
+{
+  "name": "ScanDoc – PDF Scanner",
+  "description": "Offline document scanner with automatic corner detection, perspective crop, color filters, multi-page PDF generation, offline OCR text recognition, and AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
